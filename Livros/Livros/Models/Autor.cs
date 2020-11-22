@@ -10,5 +10,7 @@ namespace Livros.Models
         public long? AutorId { get; set; }
         public string Name { get; set; }
         public string Nacionalidade { get; set; }
+
+        public virtual ICollection<Livro> Livros { get; set; }
     }
 }

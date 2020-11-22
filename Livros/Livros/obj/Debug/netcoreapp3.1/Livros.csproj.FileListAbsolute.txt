@@ -202,3 +202,8 @@ F:\FOA\Quarto Bimestre\Rosen\Trabalho\Livros\Livros\obj\Debug\netcoreapp3.1\Razo
 F:\FOA\Quarto Bimestre\Rosen\Trabalho\Livros\Livros\obj\Debug\netcoreapp3.1\Razor\Views\Autor\Edit.cshtml.g.cs
 F:\FOA\Quarto Bimestre\Rosen\Trabalho\Livros\Livros\obj\Debug\netcoreapp3.1\Razor\Views\Autor\Details.cshtml.g.cs
 F:\FOA\Quarto Bimestre\Rosen\Trabalho\Livros\Livros\obj\Debug\netcoreapp3.1\Razor\Views\Autor\Delete.cshtml.g.cs
+F:\FOA\Quarto Bimestre\Rosen\Trabalho\Livros\Livros\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Index.cshtml.g.cs
+F:\FOA\Quarto Bimestre\Rosen\Trabalho\Livros\Livros\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Create.cshtml.g.cs
+F:\FOA\Quarto Bimestre\Rosen\Trabalho\Livros\Livros\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Edit.cshtml.g.cs
+F:\FOA\Quarto Bimestre\Rosen\Trabalho\Livros\Livros\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Details.cshtml.g.cs
+F:\FOA\Quarto Bimestre\Rosen\Trabalho\Livros\Livros\obj\Debug\netcoreapp3.1\Razor\Views\Livro\Delete.cshtml.g.cs

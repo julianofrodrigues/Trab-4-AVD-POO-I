@@ -73,7 +73,7 @@ namespace Livros.Controllers
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!DepartamentoExists(autor.AutorId))
+                    if (!AutorExists(autor.AutorId))
                     {
                         return NotFound();
                     }
@@ -86,7 +86,7 @@ namespace Livros.Controllers
             }
             return View(autor);
         }
-        public bool DepartamentoExists(long? id)
+        public bool AutorExists(long? id)
         {
             return _context.Autores.Any(e => e.AutorId == id);
         }

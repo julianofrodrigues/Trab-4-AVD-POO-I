@@ -13,6 +13,7 @@ namespace Livros.Data
     {
         public static void Initialize(LivrosContext context)
         {
+            //context.Database.EnsureDeleted();
             context.Database.EnsureCreated();
         }
 

@@ -15,6 +15,7 @@ namespace Livros.Data
         }
         public DbSet<Categoria> Categorias { get; set; }
         public DbSet<Autor> Autores { get; set; }
+        public DbSet<Livro> Livros { get; set; }
 
     }
 }
