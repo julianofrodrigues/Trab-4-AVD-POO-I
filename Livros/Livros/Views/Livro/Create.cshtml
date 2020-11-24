@@ -31,14 +31,14 @@
             </div>
 
             <div class="form-group">
-                <label asp-for="AutorId" class="control-label"></label>
+                <label asp-for="AutorId" class="control-label">Autor</label>
                 <select asp-for="AutorId" class="form-control"
                         asp-items="@(new SelectList(ViewBag.Autores, "AutorId", "Name"))">
                 </select>
             </div>
 
             <div class="form-group">
-                <label asp-for="CategoriaId" class="control-label"></label>
+                <label asp-for="CategoriaId" class="control-label">Genero</label>
                 <select asp-for="CategoriaId" class="form-control"
                         asp-items="@(new SelectList(ViewBag.Categorias, "CategoriaId", "Name"))">
                 </select>
